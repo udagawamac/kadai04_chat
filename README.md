@@ -6,7 +6,7 @@
 - 会話を通して推し本を紹介しあう
 
 ## ③DEMO
-https://udagawamac.github.io/kadai04_chat/
+https://udagawamac.github.io/kadai_chat/
 
 ## ④工夫した点・こだわった点
 - 複数人でのチャットを想定して送信者を選択式とした
